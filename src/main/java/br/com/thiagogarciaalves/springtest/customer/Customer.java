@@ -1,4 +1,4 @@
-package br.com.thiagogarciaalves.springtest.model;
+package br.com.thiagogarciaalves.springtest.customer;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

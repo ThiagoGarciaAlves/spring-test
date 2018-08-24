@@ -1,7 +1,5 @@
 package br.com.thiagogarciaalves.springtest.customer;
 
-import br.com.thiagogarciaalves.springtest.model.Customer;
-import br.com.thiagogarciaalves.springtest.repository.CustomerRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
